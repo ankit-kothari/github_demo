@@ -1,0 +1,5 @@
+The other things we should know about
+docker
+nomad
+nexus
+deep learning
