@@ -3,3 +3,9 @@ SVM,
 KNN,
 Random Forest,
 Logistic Regression
+
+##adding new models
+PCA
+Decision Trees
+Linear regression
+t-sne
