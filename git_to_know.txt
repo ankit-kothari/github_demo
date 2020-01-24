@@ -3,3 +3,7 @@ The things we need to know
 Push, Pull, Remote, Squashing, Rebase, Merge, Commit, Stage, Clone
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> ui_branchdemo
