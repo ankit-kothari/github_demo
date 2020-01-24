@@ -1,3 +1,7 @@
 This file is about gGithub
 The things we need to know
 Push, Pull, Remote, Squashing, Rebase, Merge, Commit, Stage, Clone
+
+
+### adding a branch through the UI 
+Task: Update it locally and push changes to it 
