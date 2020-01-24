@@ -3,5 +3,3 @@ The things we need to know
 Push, Pull, Remote, Squashing, Rebase, Merge, Commit, Stage, Clone
 
 
-Task1: We need to know how to update a branch and send the code to the remote branch
-Task2: Add rebase , so we are adding more files to master
